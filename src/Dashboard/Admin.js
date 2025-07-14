@@ -8,5 +8,5 @@ function Admin() {
     </BrowserRouter>
   );
 }
-
+// admin
 export default Admin;
